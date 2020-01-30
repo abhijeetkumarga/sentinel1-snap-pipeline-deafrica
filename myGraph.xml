@@ -62,7 +62,7 @@
       <demName>SRTM 1Sec HGT</demName>
       <demResamplingMethod>BILINEAR_INTERPOLATION</demResamplingMethod>
       <externalDEMFile/>
-      <externalDEMNoDataValue>0.0</externalDEMNoDataValue>
+      <externalDEMNoDataValue>-32768</externalDEMNoDataValue>
       <externalDEMApplyEGM>false</externalDEMApplyEGM>
       <outputSimulatedImage>false</outputSimulatedImage>
       <additionalOverlap>0.1</additionalOverlap>
